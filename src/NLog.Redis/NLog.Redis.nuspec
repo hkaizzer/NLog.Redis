@@ -4,14 +4,14 @@
     <id>NLog.Redis</id>
     <version>$version$</version>
     <title>NLog Target for Redis</title>
-    <authors>Rich Clement</authors>
+    <authors>Pavel Khomyakov</authors>
     <owners>Rich Clement</owners>
     <licenseUrl>https://raw.githubusercontent.com/richclement/NLog.Redis/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/richclement/NLog.Redis</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>1.0.2 - Update dependencies</releaseNotes>
-    <copyright>Copyright 2014</copyright>
+    <copyright>Copyright 2018</copyright>
     <tags>NLog Redis</tags>
 	<dependencies>
 		<dependency id="StackExchange.Redis" version="1.0.488" />

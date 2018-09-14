@@ -8,7 +8,7 @@ using NUnit.Framework;
 
 namespace NLog.Redis.Tests
 {
-    [TestFixture, Ignore]
+    [TestFixture]
     public class RedisTargetWithoutSecurityTests : RedisTargetTests
     {
         [Test]
